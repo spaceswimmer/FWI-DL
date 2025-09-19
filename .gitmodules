@@ -1,0 +1,3 @@
+[submodule "synthoseis"]
+	path = synthoseis
+	url = git@github.com:sede-open/synthoseis.git
