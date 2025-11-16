@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="8">
+            <LineStyle id="10">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="9">
+                <color>64ff0000</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Points Outline (724874 points)</name>
+            <description>Outline polygon created from 724874 input points
+CRS: Original Projected CRS
+Total outline points: 36</description>
+            <styleUrl>#8</styleUrl>
+            <Polygon id="2">
+                <outerBoundaryIs>
+                    <LinearRing id="6">
+                        <coordinates>596196.0,518259.0,0.0 595730.0,512929.0,0.0 597212.0,510693.0,0.0 597445.0,510518.0,0.0 597853.0,510326.0,0.0 598122.0,510249.0,0.0 598716.0,510163.0,0.0 598890.0,510145.0,0.0 599785.0,510054.0,0.0 600780.0,509953.0,0.0 600979.0,509933.0,0.0 601079.0,509923.0,0.0 608048.0,509265.0,0.0 609257.0,509293.0,0.0 609459.0,509298.0,0.0 609513.0,509343.0,0.0 609571.0,509412.0,0.0 610045.0,513334.0,0.0 610320.0,515794.0,0.0 610459.0,517162.0,0.0 610474.0,517311.0,0.0 610494.0,517510.0,0.0 611307.0,526499.0,0.0 611755.0,542787.0,0.0 611730.0,542790.0,0.0 611556.0,542808.0,0.0 611084.0,542856.0,0.0 609716.0,542995.0,0.0 599046.0,544079.0,0.0 599021.0,544081.0,0.0 598807.0,543952.0,0.0 598801.0,543902.0,0.0 598753.0,543430.0,0.0 596302.0,519304.0,0.0 596206.0,518359.0,0.0 596196.0,518259.0,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
