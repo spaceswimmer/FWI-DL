@@ -1,3 +1,4 @@
 [submodule "synthoseis"]
 	path = synthoseis
 	url = git@github.com:spaceswimmer/synthoseis.git
+	branch = main
