@@ -1,0 +1,1 @@
+git clone --recurse-submodules git@github.com:spaceswimmer/FWI-DL.git
